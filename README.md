@@ -1,3 +1,3 @@
 # two-good-co
 
-### [live stie](https://saifullah72437.github.io/two-good-co/)
+### [live site](https://saif72437.github.io/two-good-co/)
